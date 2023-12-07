@@ -1,0 +1,282 @@
+{
+    "Token_id_0": {
+        "type": "keywords",
+        "id": 1,
+        "value": "import"
+    },
+    "Token_id_1": {
+        "type": "literals",
+        "id": 600,
+        "value": "\"sysplm.h\""
+    },
+    "Token_id_2": {
+        "type": "keywords",
+        "id": 2,
+        "value": "implementations"
+    },
+    "Token_id_3": {
+        "type": "keywords",
+        "id": 3,
+        "value": "function"
+    },
+    "Token_id_4": {
+        "type": "UKNOWN",
+        "id": 1000,
+        "value": "main"
+    },
+    "Token_id_5": {
+        "type": "keywords",
+        "id": 5,
+        "value": "is"
+    },
+    "Token_id_6": {
+        "type": "keywords",
+        "id": 6,
+        "value": "variables"
+    },
+    "Token_id_7": {
+        "type": "keywords",
+        "id": 7,
+        "value": "define"
+    },
+    "Token_id_8": {
+        "type": "identifiers",
+        "id": 100,
+        "value": "h"
+    },
+    "Token_id_9": {
+        "type": "keywords",
+        "id": 8,
+        "value": "of"
+    },
+    "Token_id_10": {
+        "type": "keywords",
+        "id": 9,
+        "value": "type"
+    },
+    "Token_id_11": {
+        "type": "keywords",
+        "id": 10,
+        "value": "double"
+    },
+    "Token_id_12": {
+        "type": "keywords",
+        "id": 7,
+        "value": "define"
+    },
+    "Token_id_13": {
+        "type": "identifiers",
+        "id": 101,
+        "value": "b"
+    },
+    "Token_id_14": {
+        "type": "keywords",
+        "id": 8,
+        "value": "of"
+    },
+    "Token_id_15": {
+        "type": "keywords",
+        "id": 9,
+        "value": "type"
+    },
+    "Token_id_16": {
+        "type": "keywords",
+        "id": 10,
+        "value": "double"
+    },
+    "Token_id_17": {
+        "type": "keywords",
+        "id": 7,
+        "value": "define"
+    },
+    "Token_id_18": {
+        "type": "identifiers",
+        "id": 102,
+        "value": "area"
+    },
+    "Token_id_19": {
+        "type": "keywords",
+        "id": 8,
+        "value": "of"
+    },
+    "Token_id_20": {
+        "type": "keywords",
+        "id": 9,
+        "value": "type"
+    },
+    "Token_id_21": {
+        "type": "keywords",
+        "id": 10,
+        "value": "double"
+    },
+    "Token_id_22": {
+        "type": "keywords",
+        "id": 11,
+        "value": "begin"
+    },
+    "Token_id_23": {
+        "type": "keywords",
+        "id": 12,
+        "value": "input"
+    },
+    "Token_id_24": {
+        "type": "literals",
+        "id": 600,
+        "value": "\"Enter a value for the height of the triangle: \""
+    },
+    "Token_id_25": {
+        "type": "specialSymbols",
+        "id": 300,
+        "value": ","
+    },
+    "Token_id_26": {
+        "type": "identifiers",
+        "id": 100,
+        "value": "h"
+    },
+    "Token_id_27": {
+        "type": "keywords",
+        "id": 13,
+        "value": "display"
+    },
+    "Token_id_28": {
+        "type": "literals",
+        "id": 600,
+        "value": "\"height: \""
+    },
+    "Token_id_29": {
+        "type": "specialSymbols",
+        "id": 300,
+        "value": ","
+    },
+    "Token_id_30": {
+        "type": "identifiers",
+        "id": 100,
+        "value": "h"
+    },
+    "Token_id_31": {
+        "type": "keywords",
+        "id": 12,
+        "value": "input"
+    },
+    "Token_id_32": {
+        "type": "literals",
+        "id": 600,
+        "value": "\"Enter a value for the base of the triangle: \""
+    },
+    "Token_id_33": {
+        "type": "specialSymbols",
+        "id": 300,
+        "value": ","
+    },
+    "Token_id_34": {
+        "type": "identifiers",
+        "id": 101,
+        "value": "b"
+    },
+    "Token_id_35": {
+        "type": "keywords",
+        "id": 13,
+        "value": "display"
+    },
+    "Token_id_36": {
+        "type": "literals",
+        "id": 600,
+        "value": "\"base: \""
+    },
+    "Token_id_37": {
+        "type": "specialSymbols",
+        "id": 300,
+        "value": ","
+    },
+    "Token_id_38": {
+        "type": "identifiers",
+        "id": 101,
+        "value": "b"
+    },
+    "Token_id_39": {
+        "type": "keywords",
+        "id": 14,
+        "value": "set"
+    },
+    "Token_id_40": {
+        "type": "identifiers",
+        "id": 102,
+        "value": "area"
+    },
+    "Token_id_41": {
+        "type": "operators",
+        "id": 204,
+        "value": "="
+    },
+    "Token_id_42": {
+        "type": "identifiers",
+        "id": 101,
+        "value": "b"
+    },
+    "Token_id_43": {
+        "type": "operators",
+        "id": 202,
+        "value": "*"
+    },
+    "Token_id_44": {
+        "type": "identifiers",
+        "id": 100,
+        "value": "h"
+    },
+    "Token_id_45": {
+        "type": "operators",
+        "id": 202,
+        "value": "*"
+    },
+    "Token_id_46": {
+        "type": "literals",
+        "id": 602,
+        "value": "0.5"
+    },
+    "Token_id_47": {
+        "type": "keywords",
+        "id": 13,
+        "value": "display"
+    },
+    "Token_id_48": {
+        "type": "literals",
+        "id": 600,
+        "value": "\"Area of triangle: \""
+    },
+    "Token_id_49": {
+        "type": "specialSymbols",
+        "id": 300,
+        "value": ","
+    },
+    "Token_id_50": {
+        "type": "identifiers",
+        "id": 102,
+        "value": "area"
+    },
+    "Token_id_51": {
+        "type": "keywords",
+        "id": 13,
+        "value": "display"
+    },
+    "Token_id_52": {
+        "type": "literals",
+        "id": 600,
+        "value": "\"Goodbye\""
+    },
+    "Token_id_53": {
+        "type": "keywords",
+        "id": 4,
+        "value": "exit"
+    },
+    "Token_id_54": {
+        "type": "keywords",
+        "id": 15,
+        "value": "endfun"
+    },
+    "Token_id_55": {
+        "type": "UKNOWN",
+        "id": 1000,
+        "value": "main"
+    }
+}

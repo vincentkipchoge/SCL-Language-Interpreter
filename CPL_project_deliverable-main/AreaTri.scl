@@ -1,0 +1,28 @@
+import "sysplm.h"
+
+/*
+program : AreaTri.scl
+Description: Computes the area of a triangle given a base and a height measurement
+Author: Zach Keener
+*/
+
+implementations
+
+function main is 
+variables
+	define h of type double //height of triangle
+	define b of type double //base of triangle
+	define area of type double
+
+begin
+	input "Enter a value for the height of the triangle: ", h
+	display "height: ", h
+	input "Enter a value for the base of the triangle: ", b
+	display "base: ", b
+
+	set area = b * h * 0.5
+
+	display "Area of triangle: ", area
+	display "Goodbye"
+	exit
+endfun main
