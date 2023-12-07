@@ -1,1 +1,3 @@
 # SCL-Language-Interpreter
+Developed an interpreter for the subset of SCL language. SCL is an experimental system programming language that can be accessed at http://ksuweb.kennesaw.edu/~jgarrido/sysplm/. Implementation scans then reads the source code and creates a list of tokens. The scanner implementation includes an array of the keywords used in the subset of SCL, an array (or list) of the identifiers (variables), and other tokens (such as operators, keywords, constants, and/or special characters). Additionally, there is define grammar of the subset of SCL that is used in BNF/EBNF.
+The program takes command-line input from a file and generate a JSON file with a list of tokens while also printing those tokens to the console.
